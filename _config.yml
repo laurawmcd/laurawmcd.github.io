@@ -1,0 +1,15 @@
+title: Laura Walker McDonald
+description: Laura Walker McDonald is a technologist specialising in inclusive and ethical approaches to using tech to make the world a bit better.
+url: https://www.laurawalkermcdonald.com
+email: hello@laurawalkermcdonald.com
+linkedin: https://www.linkedin.com/in/laurawmcd/
+
+# Social share image (shown when someone posts a link to the site)
+image: /assets/images/laura-portrait.jpg
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
