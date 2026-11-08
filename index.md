@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Laura Walker McDonald - technology, strategy, policy
+title: technology, strategy, policy
 ---
 
 <img class="hero" src="/assets/images/laura-portrait.jpg" alt="Laura stands looking up at the camera, in front of a white brick wall, wearing a silver brooch and several necklaces over a black jacket and top.">
