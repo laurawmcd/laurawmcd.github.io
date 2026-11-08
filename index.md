@@ -15,12 +15,7 @@ Principled technology practice means thinking about gaps in governance, ethics, 
 
 I help people understand and solve problems together, drawing on more than fifteen years' global experience, and methodologies from aid and development, research, software, and design. I create spaces, processes and teams where people can feel safe, reflect, collaborate and deliver real impact.
 
-</div></div>
-</section>
-
-<section class="panel">
-<div class="panel-bg" style="--focus: center 25%"><img src="/assets/images/failfest.jpg" alt="Laura on stage at FailFest, Washington DC, 2017, arms spread wide, in front of a screen showing sponsor logos."></div>
-<div class="panel-content"><div class="column" markdown="1">
+</div><div class="column spaced" markdown="1">
 
 ## Resume
 

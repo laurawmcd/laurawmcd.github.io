@@ -176,3 +176,5 @@ form button { margin-top: 1.25rem; }
 
 /* The "available for consulting" box scrolls past on its own before the next column */
 .callout-box { margin-bottom: 70vh; }
+
+.spaced { margin-top: 40vh; }
