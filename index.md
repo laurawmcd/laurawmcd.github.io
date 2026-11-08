@@ -19,7 +19,7 @@ I help people understand and solve problems together, drawing on more than fifte
 </section>
 
 <section class="panel">
-<div class="panel-bg" style="--focus: 65% 0%"><img src="/assets/images/laura-portrait-2.jpg" alt="Laura sits in a dark leather armchair in front of a white brick wall, wearing black and glittery high-top sneakers."></div>
+<div class="panel-bg" style="--focus: center 25%"><img src="/assets/images/failfest.jpg" alt="Laura on stage at FailFest, Washington DC, 2017, arms spread wide, in front of a screen showing sponsor logos."></div>
 <div class="panel-content"><div class="column" markdown="1">
 
 ## Resume
