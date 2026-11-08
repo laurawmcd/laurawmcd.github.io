@@ -20,7 +20,7 @@ Images live in `assets/images/`, the resume PDF in `assets/`. To add or replace 
 | --- | --- |
 | `assets/images/laura-portrait.jpg` | Top of home page, and the image shown when the site is shared |
 | `assets/images/laura-portrait-2.jpg` | Second home page photo (armchair) |
-| `assets/images/iteration-planning-nairobi-2012.jpg` | Sticky-notes photo |
-| `assets/images/sideloading.jpg` | Laptops and cables photo |
+| `assets/images/iteration-planning-nairobi-2012.jpg` | Laptops-and-cables photo |
+| `assets/images/sideloading.jpg` | Whiteboard photo |
 | `assets/images/failfest.jpg` | Contact page |
 | `assets/LWM-public-resume-August-2024.pdf` | Resume download (if you upload a newer one, update the link in `index.md`) |
