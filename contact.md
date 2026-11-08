@@ -12,4 +12,4 @@ For speaking engagements, [email me at {{ site.email }}](mailto:{{ site.email }}
 
 For consulting, [email me about consulting engagements](mailto:{{ site.email }}?subject=Consulting%20engagements).
 
-<figure><img src="/assets/images/failfest.jpg" alt="Photo from FailFest."></figure>
+<figure><img src="/assets/images/failfest.jpg" alt="Laura on stage at FailFest, Washington DC, 2017, arms spread wide, in front of a screen showing sponsor logos."></figure>
