@@ -19,7 +19,7 @@ I help people understand and solve problems together, drawing on more than fifte
 </section>
 
 <section class="panel">
-<div class="panel-bg" style="--focus: 65% 20%"><img src="/assets/images/laura-portrait-2.jpg" alt="Laura sits in a dark leather armchair in front of a white brick wall, wearing black and glittery high-top sneakers."></div>
+<div class="panel-bg" style="--focus: 65% 0%"><img src="/assets/images/laura-portrait-2.jpg" alt="Laura sits in a dark leather armchair in front of a white brick wall, wearing black and glittery high-top sneakers."></div>
 <div class="panel-content"><div class="column" markdown="1">
 
 ## Resume
@@ -61,18 +61,13 @@ I help people understand and solve problems together, drawing on more than fifte
 </section>
 
 <section class="panel">
-<div class="panel-bg"><img src="/assets/images/iteration-planning-nairobi-2012.jpg" alt="Laptops and phones on a table, tangled in charging cables, during iteration planning in Nairobi, 2012."></div>
-<div class="panel-content"><div class="column" markdown="1">
+<div class="panel-bg"><img src="/assets/images/sideloading.jpg" alt="A whiteboard covered in handwritten notes and sticky notes."></div>
+<div class="panel-content"><div class="column callout-box" markdown="1">
 
 I’m currently available for limited [consulting engagements](mailto:{{ site.email }}?subject=Consulting%20engagements).
 {: .callout}
 
-</div></div>
-</section>
-
-<section class="panel">
-<div class="panel-bg"><img src="/assets/images/sideloading.jpg" alt="A whiteboard covered in handwritten notes and sticky notes."></div>
-<div class="panel-content"><div class="column" markdown="1">
+</div><div class="column" markdown="1">
 
 ## Client work and testimonials
 

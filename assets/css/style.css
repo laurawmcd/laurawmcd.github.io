@@ -173,3 +173,6 @@ form button { margin-top: 1.25rem; }
   .panel-content { padding: 70vh .75rem 25vh; }
   form .row { display: block; }
 }
+
+/* The "available for consulting" box scrolls past on its own before the next column */
+.callout-box { margin-bottom: 70vh; }
