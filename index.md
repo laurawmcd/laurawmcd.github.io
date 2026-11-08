@@ -3,11 +3,11 @@ layout: default
 title: technology, strategy, policy
 ---
 
-<img class="hero" src="/assets/images/laura-portrait.jpg" alt="Laura stands looking up at the camera, in front of a white brick wall, wearing a silver brooch and several necklaces over a black jacket and top.">
+<section class="panel">
+<div class="panel-bg" style="--focus: center 30%"><img src="/assets/images/laura-portrait.jpg" alt="Laura stands looking up at the camera, in front of a white brick wall, wearing a silver brooch and several necklaces over a black jacket and top."></div>
+<div class="panel-content"><div class="column" markdown="1">
 
 # I’m Laura. I work with teams to help make technologies that make things better.
-
-<figure><img src="/assets/images/laura-portrait-2.jpg" alt="Laura sits in a dark leather armchair in front of a white brick wall, wearing black and glittery high-top sneakers."></figure>
 
 Technology can embody the best and worst of human nature. It can provide connection and opportunity; or deepen inequality, and put people in harm’s way.
 
@@ -15,60 +15,64 @@ Principled technology practice means thinking about gaps in governance, ethics, 
 
 I help people understand and solve problems together, drawing on more than fifteen years' global experience, and methodologies from aid and development, research, software, and design. I create spaces, processes and teams where people can feel safe, reflect, collaborate and deliver real impact.
 
+</div></div>
+</section>
+
+<section class="panel">
+<div class="panel-bg" style="--focus: 65% 20%"><img src="/assets/images/laura-portrait-2.jpg" alt="Laura sits in a dark leather armchair in front of a white brick wall, wearing black and glittery high-top sneakers."></div>
+<div class="panel-content"><div class="column" markdown="1">
+
 ## Resume
 
 <a class="button" href="/assets/LWM-public-resume-August-2024.pdf">Download PDF</a>
 
-### Senior Advisor, ICRC Washington
-October 2021 – present
-{: .dates}
+<details>
+<summary><span class="job">Senior Advisor, ICRC Washington</span><span class="dates">October 2021 – present</span></summary>
+<p>I help grow the ICRC's understanding, analysis and influencing around technology and how it impacts people affected by conflict around the world, exchanging with government agencies, militaries, think tanks, NGOs, academia, the Red Cross and Red Crescent Movement, and the private sector. Current focus topics include cybersecurity, mis- and disinformation and hate speech, biotechnology, human augmentation, data protection, cloud computing and AI. In addition to policy work, I support our programmatic teams where technology comes up for them; provide training and capacity-building, lead our learning and accountability to affected people agenda, and organize happy hours for the international relations and tech community in DC.</p>
+</details>
 
-I help grow the ICRC's understanding, analysis and influencing around technology and how it impacts people affected by conflict around the world, exchanging with government agencies, militaries, think tanks, NGOs, academia, the Red Cross and Red Crescent Movement, and the private sector. Current focus topics include cybersecurity, mis- and disinformation and hate speech, biotechnology, human augmentation, data protection, cloud computing and AI. In addition to policy work, I support our programmatic teams where technology comes up for them; provide training and capacity-building, lead our learning and accountability to affected people agenda, and organize happy hours for the international relations and tech community in DC.
+<details>
+<summary><span class="job">Principal, Betterlab.io</span><span class="dates">January 2018 – present</span></summary>
+<p>I currently accept limited consulting engagements alongside my full time position. In the past I've supported a diverse group of clients on a range of projects, including:</p>
+<ul>
+<li>Strategic and project reviews and evaluations for technology projects and organizations around the world</li>
+<li>Developing policy and knowledge products</li>
+<li>Speaking and writing about responsible data, evidence and ethics in tech for social change</li>
+<li>Developing <a href="https://laurawmcd.github.io/betterbox">BetterBox</a>, a toolkit for evidence-based design in tech for social change</li>
+</ul>
+</details>
 
-### Principal, Betterlab.io
-January 2018 – present
-{: .dates}
+<details>
+<summary><span class="job">Senior Director, DIAL, UN Foundation</span><span class="dates">March 2018 – September 2021</span></summary>
+<p>I lead a close-knit and high-performing team delivering DIAL's community, communications and policy work, and stewarding the Principles for Digital Development. I helped shape DIAL’s policy influencing and engagement with global institutions and discussions; develop key positions; direct research; manage a healthy budget and support my team to be happy and productive in a disrupted world.</p>
+</details>
 
-I currently accept limited consulting engagements alongside my full time position. In the past I've supported a diverse group of clients on a range of projects, including:
+<details>
+<summary><span class="job">Director of Innovation, GAHI</span><span class="dates">June 2018 – March 2021</span></summary>
+<p>Staff specialist on technology and digital. At GAHI, I lead our strategy and portfolio of work on Responsible Innovation and Data Ethics. I also lead our approach to technology overall, overseeing a useful study on the evidence base for the use of Distributed Ledger Technologies, like Blockchain, in humanitarian aid. I acted as our representative in Washington, DC and lead an internal strategy process to develop our second two-year strategy.</p>
+</details>
 
-- Strategic and project reviews and evaluations for technology projects and organizations around the world
-- Developing policy and knowledge products
-- Speaking and writing about responsible data, evidence and ethics in tech for social change
-- Developing [BetterBox](https://laurawmcd.github.io/betterbox), a toolkit for evidence-based design in tech for social change
+<details>
+<summary><span class="job">CEO, SIMLab and FrontlineSMS</span><span class="dates">March 2010 – December 2017</span></summary>
+<p>At SIMLab, we helped design sustainable, cost-effective and effective systems and services that work, and allow people and organizations to respond effectively to these complex environments. Working with us, our partners execute on ground-breaking projects to improve their own programmatic work and advocacy. We helped communities hold institutions accountable, help advocacy organizations fight through bureaucracy to protect rights, and help individuals to participate in the systems critical to their livelihoods. We provided consulting, guides, tools and case studies, and advocate for changes in policy and funding. And we worked on best practice tools in evidence-based design, monitoring and evaluation for ICTs in aid, and data ethics in practice.</p>
+</details>
 
-### Senior Director, DIAL, UN Foundation
-March 2018 – September 2021
-{: .dates}
+</div></div>
+</section>
 
-I lead a close-knit and high-performing team delivering DIAL's community, communications and policy work, and stewarding the Principles for Digital Development. I helped shape DIAL’s policy influencing and engagement with global institutions and discussions; develop key positions; direct research; manage a healthy budget and support my team to be happy and productive in a disrupted world.
-
-### Director of Innovation, GAHI
-June 2018 – March 2021
-{: .dates}
-
-Staff specialist on technology and digital. At GAHI, I lead our strategy and portfolio of work on Responsible Innovation and Data Ethics. I also lead our approach to technology overall, overseeing a useful study on the evidence base for the use of Distributed Ledger Technologies, like Blockchain, in humanitarian aid. I acted as our representative in Washington, DC and lead an internal strategy process to develop our second two-year strategy.
-
-### CEO, SIMLab and FrontlineSMS
-March 2010 – December 2017
-{: .dates}
-
-At SIMLab, we helped design sustainable, cost-effective and effective systems and services that work, and allow people and organizations to respond effectively to these complex environments. Working with us, our partners execute on ground-breaking projects to improve their own programmatic work and advocacy. We helped communities hold institutions accountable, help advocacy organizations fight through bureaucracy to protect rights, and help individuals to participate in the systems critical to their livelihoods. We provided consulting, guides, tools and case studies, and advocate for changes in policy and funding. And we worked on best practice tools in evidence-based design, monitoring and evaluation for ICTs in aid, and data ethics in practice.
-
-During my time at SIMLab, I:
-
-- Built a distributed team with a reputation for excellence and integrity and a warm, supportive culture
-- Supported social change projects all over the world to use inclusive technology approaches through strategy, training, advice and analysis
-- Wrote best practice frameworks in evidence-based design and monitoring and evaluation of technology, moving the conversation forward by demonstrating effective approaches
-- Made inclusive technology part of the conversation in community engagement and communication in humanitarian aid
-- As product lead and head of the developer team, built and launched FrontlineSMS v2, a successful, global product built to work in a wide range of infrastructure, hardware, and software environments. The platform makes it easier to send, receive and manage SMS even without the Internet. In 2014, spun out FrontlineSMS as a new for-profit company.
-- Built relationships with major ecosystem players across industry, technological platforms, and sector silos, and the experience to lead deeply technical and practical initiatives – as proven by coalitions, events, my writing, and a wide range of speaking engagements.
-
-<figure><img src="/assets/images/iteration-planning-nairobi-2012.jpg" alt="A wall covered in sticky notes during an iteration planning session, Nairobi, 2012."></figure>
+<section class="panel">
+<div class="panel-bg"><img src="/assets/images/iteration-planning-nairobi-2012.jpg" alt="A wall covered in sticky notes during an iteration planning session, Nairobi, 2012."></div>
+<div class="panel-content"><div class="column" markdown="1">
 
 I’m currently available for limited [consulting engagements](mailto:{{ site.email }}?subject=Consulting%20engagements).
 {: .callout}
 
-<figure><img src="/assets/images/sideloading.jpg" alt="Several laptops and phones on a table, tangled in charging cables."></figure>
+</div></div>
+</section>
+
+<section class="panel">
+<div class="panel-bg"><img src="/assets/images/sideloading.jpg" alt="Several laptops and phones on a table, tangled in charging cables."></div>
+<div class="panel-content"><div class="column" markdown="1">
 
 ## Client work and testimonials
 
@@ -91,11 +95,14 @@ An experienced speaker and writer, I advocate for inclusive technology, evidence
 - Pulse on the Principles [Leave No-one Behind mini-season](https://podcasts.apple.com/us/podcast/pulse-on-the-principles/id1525949555) on the Digital Principles podcast
 - Panel moderator: [A Whole of Society Agenda: Global Cooperation for National Digital Transformation](https://www.youtube.com/watch?v=GdXeSAP5OAI) at Concordia Summit 2020
 - [Policy Brief](https://www.thegahi.org/assets/downloads/10528_GAHI_Blockchain_Policy_ART_WEB.pdf) on next steps for scaling the use of blockchain in humanitarian aid
-- [Consultation report](https://web.archive.org/web/2017/http://simlab.org/resources/dogooddata/) on responsible data practice in civil society (with Kelly Church)
-- Frameworks on [monitoring and evaluation](https://web.archive.org/web/2017/http://www.simlab.org/resources/mandeoftech) (with Linda Raftree) and [context analysis](https://web.archive.org/web/2017/http://www.simlab.org/resources/contextanalysis) (with Kelly Church and Margaret Scott) for technology in social change
+- [Consultation report](http://simlab.org/resources/dogooddata/) on responsible data practice in civil society (with Kelly Church)
+- Frameworks on [monitoring and evaluation](http://simlab.org/resources/mandeoftech/) (with Linda Raftree) and [context analysis](http://simlab.org/resources/contextanalysis/) (with Kelly Church and Margaret Scott) for technology in social change
 - [Evaluation of the Sigmah project](https://web.archive.org/web/2017/http://www.sigmah.org/Sigmah-evaluation-showing-the-way-forward.html)
-- [Case study](https://web.archive.org/web/2018/http://feedbackmechanisms.org/public/files/SIMLab.pdf) on mobile-enabled feedback mechanisms
+- [Case study](http://feedbackmechanisms.org/public/files/SIMLab.pdf) on mobile-enabled feedback mechanisms
 - The Guardian: [Making tech work for development](https://www.theguardian.com/global-development-professionals-network/video/2014/feb/03/ict4d-video-frontline-sms-technology-for-development) (video)
 - [Get the message: NTEN Ignite talk](https://www.youtube.com/watch?v=S4O0MK0ZDRE) (video)
 - [Whispering when everyone is listening: Low-Tech Communications Technology Implementations in High-Risk Contexts](https://www.academia.edu/20648803/Whispering_when_Everyone_is_Listening_Low-Tech_Communications_Technology_Implementations_in_High-Risk_Contexts) (with [Keith Porcaro](https://keith.porca.ro/))
 - [SMS-based accountability to beneficiaries mechanisms in humanitarian aid and development](https://www.academia.edu/20291356/SMS-based_accountability_to_beneficiaries_mechanisms_in_humanitarian_aid_and_development)
+
+</div></div>
+</section>
